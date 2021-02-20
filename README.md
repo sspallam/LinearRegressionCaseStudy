@@ -1,2 +1,2 @@
 # LinearRegressionCaseStudy
-LinearRegression  case study
+LogisticRegression  case study
